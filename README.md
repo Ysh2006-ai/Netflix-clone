@@ -20,8 +20,7 @@ A simple, responsive Netflix clone built using only HTML and CSS.
 - Add JavaScript for dynamic content
 - Fetch movie data from an API
 
-📝 License
-This project is for educational purposes only and does not claim ownership of Netflix's design.
+
 
 
 
